@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "65c9b85cabe209f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce10c8e529d91868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59f733091f3fef01",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "560eb7404c7d9aee",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1690541747727f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd05cec904b734f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0d48e47a3795b7a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"TI/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "1646bf77332bb3d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e18080244a6b3e6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "11232b1a80dc5326",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5e366e4a7c0e69a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TI/Arquitetura de Von Neumann.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Arquitetura de Von Neumann"
+            }
+          },
+          {
+            "id": "33d5f074060041dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TI/Arquitetura de Von Neumann.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Arquitetura de Von Neumann"
+            }
+          },
+          {
+            "id": "a17d13a08167165c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4ec772a23d233c0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TI/Arquitetura de Von Neumann.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Arquitetura de Von Neumann"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "fd05cec904b734f1",
+  "lastOpenFiles": [
+    "TI/Redes 2.0/Redes wireless 802.11.md",
+    "TI/Sem título.md",
+    "TI/Redes 2.0",
+    "TI/Redes/Equipamentos de redes.md",
+    "TI/Sem título/Sem título",
+    "TI/Redes/IPV4-IPV6.md",
+    "TI/Redes/IPV6.md",
+    "TI/Redes/Modelo TCP-IP.md",
+    "TI/Redes/Sem título",
+    "TI/Redes/Modelo OSI.md",
+    "Modelo.md",
+    "Modelo OSI.md",
+    "Modelo OSI 1.md",
+    "Network.md",
+    "Rede do Modelo OSI.md",
+    "TI/Fundamentos da computação/Arquitetura de Von Neumann.md",
+    "youtube.com.md",
+    "Sem título.md",
+    "TI/Fundamentos da computação/Barramentos e memória.md",
+    "TI/Redes",
+    "Sem título",
+    "TI/Fundamentos da computação/Dispositivos de entrada e saída.md",
+    "TI/Fundamentos da computação",
+    "TI"
+  ]
+}

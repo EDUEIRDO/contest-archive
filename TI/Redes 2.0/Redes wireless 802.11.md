@@ -1,0 +1,1 @@
+O padrão IEEE 802.11 define as especificações para redes wifi. Os subpadões

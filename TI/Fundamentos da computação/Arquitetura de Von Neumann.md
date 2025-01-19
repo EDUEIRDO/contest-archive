@@ -1,0 +1,1 @@
+É uma arquitetura de computador que se caracteriza pela possibilidade de uma maquina digital armazenar seus programas no mesmo espaço de memoria que os dados. Esse modelo descreve como os componentes principais de um computador interagem para executar programas e processar dados.
