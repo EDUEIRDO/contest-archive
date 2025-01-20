@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce10c8e529d91868",
+        "id": "aabff5b8e572a757",
         "type": "tabs",
         "children": [
           {
-            "id": "59f733091f3fef01",
+            "id": "b14bc548ddff150b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CheckList.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "CheckList"
             }
           }
         ]
@@ -158,18 +162,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fd05cec904b734f1",
+  "active": "b14bc548ddff150b",
   "lastOpenFiles": [
+    "CheckList.md",
+    "TI/Redes 2.0/Ferramentas de resolução de problemas de redes.md",
+    "TI/Redes/Modelo OSI.md",
+    "TI/Redes/Modelo TCP-IP.md",
+    "TI/Redes/IPV4-IPV6.md",
+    "TI/Redes 2.0/Protocolo de roteamento.md",
+    "TI/Redes 2.0/VLAN.md",
     "TI/Redes 2.0/Redes wireless 802.11.md",
     "TI/Sem título.md",
     "TI/Redes 2.0",
     "TI/Redes/Equipamentos de redes.md",
     "TI/Sem título/Sem título",
-    "TI/Redes/IPV4-IPV6.md",
     "TI/Redes/IPV6.md",
-    "TI/Redes/Modelo TCP-IP.md",
     "TI/Redes/Sem título",
-    "TI/Redes/Modelo OSI.md",
     "Modelo.md",
     "Modelo OSI.md",
     "Modelo OSI 1.md",
@@ -177,7 +185,6 @@
     "Rede do Modelo OSI.md",
     "TI/Fundamentos da computação/Arquitetura de Von Neumann.md",
     "youtube.com.md",
-    "Sem título.md",
     "TI/Fundamentos da computação/Barramentos e memória.md",
     "TI/Redes",
     "Sem título",
