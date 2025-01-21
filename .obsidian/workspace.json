@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aabff5b8e572a757",
+        "id": "9f72b04ecd064bc6",
         "type": "tabs",
         "children": [
           {
-            "id": "b14bc548ddff150b",
+            "id": "b6bbbb97d6c9b269",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,24 +35,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd05cec904b734f1",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
-            }
-          },
-          {
             "id": "0d48e47a3795b7a3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"TI/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,12 +60,25 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "b6ad0c77df7b0af3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.5
   },
   "right": {
     "id": "e18080244a6b3e6f",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TI/Arquitetura de Von Neumann.md",
+                "file": "Sem título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Arquitetura de Von Neumann"
+              "title": "Links inversos para Sem título"
             }
           },
           {
@@ -139,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TI/Arquitetura de Von Neumann.md"
+                "file": "Sem título.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Arquitetura de Von Neumann"
+              "title": "Sumário de Sem título"
             }
           }
         ]
@@ -162,19 +163,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b14bc548ddff150b",
+  "active": "b6ad0c77df7b0af3",
   "lastOpenFiles": [
+    "Sem título.canvas",
+    "Lei 8112-90.md",
+    "2025-01-21.md",
     "CheckList.md",
+    "TI/Internet, Intranet, Extranet.md",
+    "TI/Gerenciamento e contratos/Lei nº 14.133-2021 (Licitações e Contratos).md",
     "TI/Redes 2.0/Ferramentas de resolução de problemas de redes.md",
+    "TI/Redes 2.0/Protocolo de roteamento.md",
+    "TI/Redes 2.0/Redes wireless 802.11.md",
+    "TI/Redes/IPV4-IPV6.md",
+    "TI/Redes/Equipamentos de redes.md",
     "TI/Redes/Modelo OSI.md",
     "TI/Redes/Modelo TCP-IP.md",
-    "TI/Redes/IPV4-IPV6.md",
-    "TI/Redes 2.0/Protocolo de roteamento.md",
+    "TI/Gerenciamento e contratos/Framework PPSI.md",
+    "TI/Gerenciamento e contratos/ITIL v4 - Práticas de gestão de serviços.md",
+    "TI/Gerenciamento e contratos",
+    "TI/Segurança da informação/Gerenciamento de vulnerabilidades.md",
+    "TI/Segurança da informação/Filtragem de pacotes.md",
+    "TI/Segurança da informação/Proxy.md",
+    "TI/Segurança da informação",
+    "TI/Fundamentos da computação/Barramentos e memória.md",
+    "TI/Fundamentos da computação/Arquitetura de Von Neumann.md",
     "TI/Redes 2.0/VLAN.md",
-    "TI/Redes 2.0/Redes wireless 802.11.md",
-    "TI/Sem título.md",
     "TI/Redes 2.0",
-    "TI/Redes/Equipamentos de redes.md",
     "TI/Sem título/Sem título",
     "TI/Redes/IPV6.md",
     "TI/Redes/Sem título",
@@ -182,13 +196,8 @@
     "Modelo OSI.md",
     "Modelo OSI 1.md",
     "Network.md",
-    "Rede do Modelo OSI.md",
-    "TI/Fundamentos da computação/Arquitetura de Von Neumann.md",
-    "youtube.com.md",
-    "TI/Fundamentos da computação/Barramentos e memória.md",
     "TI/Redes",
     "Sem título",
-    "TI/Fundamentos da computação/Dispositivos de entrada e saída.md",
     "TI/Fundamentos da computação",
     "TI"
   ]
