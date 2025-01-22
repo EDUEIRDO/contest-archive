@@ -10,7 +10,7 @@ Lista de checagem de assuntos estudados.
 - [x] Ambiente Windows e Linux.
 - [ ] Pacote LibreOffice7.5 +.
 - [x] Conceitos e comandos de editor de textos.
-- [ ] Conceitos e comandos de planilha eletrônica.
+- [x] Conceitos e comandos de planilha eletrônica.
 - [x] Conceitos e comandos de programas de apresentação.
 - [x] Serviço de internet (Conceitos básicos, correio eletrônico, navegação, acesso remoto, transferência de arquivos, busca).
 - [x] Conceitos e princípios de segurança de informação de sistemas: Noções de vírus, worms e pragas virtuais, aplicativos para segurança(antivírus, firewall, anti-spyware, etc.), procedimento de backup.
@@ -29,12 +29,12 @@ Lista de checagem de assuntos estudados.
 - [x] Arquitetura de Von Neumann.
 - [x] Processadores: Unidade de controle (UC), Unidade lógica (ULA), registradores, clock interno e externo, barramento, memória cache, arquiteturas i386 e x86_64, características dos principais processadores do mercado INTEL e AMD.
 - [x] Dispositivos de entrada e saída: Teclado, mouse, monitores, impressoras, scanners e multifuncionais.
-- [ ] Funcionalidades dos drivers de dispositivos.
+- [x] Funcionalidades dos drivers de dispositivos.
 - [x] Noções sobre fonte de alimentação: potência, eficiência, correção de fator de potência (PFC) e conectores.
 - [x] Memória: memórias principal e secundária.
 - [x] Noções sobre placa-mãe: chipset, slots de expansão, soquetes, conectores, BIOS e SETUP.
 - [ ] Barramento de sistema (system bus), ATA, SATA, SAS, AGP, FireWire (IEE 1394), PCI, PCI Express, USB e PS/2.
-- [ ] Noções de arquitetura, protocolos e serviços de redes de comunicação
+- [x] Noções de arquitetura, protocolos e serviços de redes de comunicação
 - [x] Modelos OSI e TCP/IP.
 - [ ] Protocolos HTTP/HTTPS, TELNET, SSH, FTP/SFTP, DNS, DHCP, LDAP, NFS, NTP, TCP, UDP, ICMP, ARP e RARP.
 - [x] Características dos protocolos IPv4 e IPv6.
@@ -59,9 +59,9 @@ Lista de checagem de assuntos estudados.
 - [x] Permissões de acesso a arquivos e diretórios em ambiente Windows (7 ao 11) e linux.
 - [x] Noções e conceitos sobre sistemas operacionais, processos, arquivos, diretórios, entrada e saída, interpretador de comandos (shell), memória virtual, paginação, swap e virtualização.
 - [x] Noções e conceitos sobre segurança da informação.
-- [ ] Ataques à segurança: ataques passivos e ataques ativos.
-- [ ] Serviços de segurança: controle de acesso, autenticação, confidencialidade, integridade, irretratabilidade, disponibilidade.
-- [ ] Conceitos sobre criptografia e principais protocolos criptográficos.
+- [x] Ataques à segurança: ataques passivos e ataques ativos.
+- [x] Serviços de segurança: controle de acesso, autenticação, confidencialidade, integridade, irretratabilidade, disponibilidade.
+- [x] Conceitos sobre criptografia e principais protocolos criptográficos.
 - [x] Assinatura digital.
 - [x] Certificado digital.
 - [x] Softwares maliciosos: vírus, cavalos de tróia, spyware, keyloggers e worms.

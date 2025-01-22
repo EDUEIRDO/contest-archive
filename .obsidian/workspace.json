@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9f72b04ecd064bc6",
+        "id": "6e28e3ea352cfffe",
         "type": "tabs",
         "children": [
           {
-            "id": "b6bbbb97d6c9b269",
+            "id": "14075712d04c32e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheckList.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CheckList"
+              "title": "Nova aba"
             }
           }
         ]
@@ -58,7 +54,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           },
           {
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 206.5
   },
   "right": {
     "id": "e18080244a6b3e6f",
@@ -163,12 +159,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b6ad0c77df7b0af3",
+  "active": "14075712d04c32e4",
   "lastOpenFiles": [
-    "Sem título.canvas",
     "Lei 8112-90.md",
-    "2025-01-21.md",
+    "Decreto nº 1.171-1994 - Código de Ética Profissional do Servidor Público Civil Federal.md",
+    "Sem título 1.md",
+    "Decreto nº 9.739-2019.md",
+    "Lei 9.784-1999.md",
     "CheckList.md",
+    "Sem título.canvas",
+    "2025-01-21.md",
     "TI/Internet, Intranet, Extranet.md",
     "TI/Gerenciamento e contratos/Lei nº 14.133-2021 (Licitações e Contratos).md",
     "TI/Redes 2.0/Ferramentas de resolução de problemas de redes.md",
@@ -193,9 +193,6 @@
     "TI/Redes/IPV6.md",
     "TI/Redes/Sem título",
     "Modelo.md",
-    "Modelo OSI.md",
-    "Modelo OSI 1.md",
-    "Network.md",
     "TI/Redes",
     "Sem título",
     "TI/Fundamentos da computação",
