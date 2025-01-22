@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6e28e3ea352cfffe",
+        "id": "ed5e06ed7a2fe3ce",
         "type": "tabs",
         "children": [
           {
-            "id": "14075712d04c32e4",
+            "id": "bd0f986ab246219a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Português/Morfossintaxe.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Morfossintaxe"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 206.5,
+    "collapsed": true
   },
   "right": {
     "id": "e18080244a6b3e6f",
@@ -159,13 +164,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "14075712d04c32e4",
+  "active": "bd0f986ab246219a",
   "lastOpenFiles": [
-    "Lei 8112-90.md",
-    "Decreto nº 1.171-1994 - Código de Ética Profissional do Servidor Público Civil Federal.md",
+    "Português/Relações Semântico-Discursivas.md",
+    "Português/Morfossintaxe.md",
+    "Português/Semântica.md",
+    "Português/Coesão e coerência Textual.md",
+    "Português",
+    "Legislação/LGPD - Decreto nº 8.539-2015 - Lei nº 13.146-2015 - Lei nº 11.091-2005.md",
+    "Legislação/UFCG.md",
+    "Legislação",
+    "Legislação/Decreto nº 9.094-2017 - Simplificação do Atendimento ao Usuário dos Serviços Públicos.md",
+    "Legislação/Decreto nº 9.991-2019 Atualizado pelo Decreto nº 10.506-2020.md",
+    "Legislação/Lei 8112-90.md",
+    "Legislação/Decreto nº 1.171-1994 - Código de Ética Profissional do Servidor Público Civil Federal.md",
     "Sem título 1.md",
-    "Decreto nº 9.739-2019.md",
-    "Lei 9.784-1999.md",
+    "Legislação/Decreto nº 9.739-2019.md",
+    "Legislação/Lei 9.784-1999.md",
     "CheckList.md",
     "Sem título.canvas",
     "2025-01-21.md",
@@ -181,20 +196,11 @@
     "TI/Gerenciamento e contratos/Framework PPSI.md",
     "TI/Gerenciamento e contratos/ITIL v4 - Práticas de gestão de serviços.md",
     "TI/Gerenciamento e contratos",
-    "TI/Segurança da informação/Gerenciamento de vulnerabilidades.md",
-    "TI/Segurança da informação/Filtragem de pacotes.md",
-    "TI/Segurança da informação/Proxy.md",
     "TI/Segurança da informação",
-    "TI/Fundamentos da computação/Barramentos e memória.md",
-    "TI/Fundamentos da computação/Arquitetura de Von Neumann.md",
-    "TI/Redes 2.0/VLAN.md",
     "TI/Redes 2.0",
     "TI/Sem título/Sem título",
-    "TI/Redes/IPV6.md",
     "TI/Redes/Sem título",
-    "Modelo.md",
     "TI/Redes",
-    "Sem título",
     "TI/Fundamentos da computação",
     "TI"
   ]
