@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/8. Regras de Escrita - Ortografia, Acentuação Gráfica, Pontuação.md",
+                "file": "Português/Orações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Regras de Escrita - Ortografia, Acentuação Gráfica, Pontuação"
+              "title": "Orações"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "d53f53c8621dbd29",
   "lastOpenFiles": [
-    "Português/9. Redação Oficial - Estrutura de Documentos Administrativos.md",
     "Português/8. Regras de Escrita - Ortografia, Acentuação Gráfica, Pontuação.md",
+    "Português/Orações.md",
+    "Português/9. Redação Oficial - Estrutura de Documentos Administrativos.md",
     "Português/Termo.md",
     "Português/Analise Textual.md",
     "Português/7. Linguagem Denotativa e Conotativa.md",
@@ -192,7 +193,6 @@
     "Legislação/Decreto nº 1.171-1994 - Código de Ética Profissional do Servidor Público Civil Federal.md",
     "Sem título 1.md",
     "Legislação/Decreto nº 9.739-2019.md",
-    "Legislação/Lei 9.784-1999.md",
     "Sem título.canvas",
     "TI/Gerenciamento e contratos",
     "TI/Segurança da informação",
