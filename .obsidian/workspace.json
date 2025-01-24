@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7ab096369a2600a7",
+        "id": "c33abe16ad36c5ce",
         "type": "tabs",
         "children": [
           {
-            "id": "358454958dab74e5",
+            "id": "d53f53c8621dbd29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Redação Oficial - Estrutura de Documentos Administrativos.md",
+                "file": "Português/8. Regras de Escrita - Ortografia, Acentuação Gráfica, Pontuação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redação Oficial - Estrutura de Documentos Administrativos"
+              "title": "8. Regras de Escrita - Ortografia, Acentuação Gráfica, Pontuação"
             }
           }
         ]
@@ -163,18 +163,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "358454958dab74e5",
+  "active": "d53f53c8621dbd29",
   "lastOpenFiles": [
-    "Português/Redação Oficial - Estrutura de Documentos Administrativos.md",
+    "Português/9. Redação Oficial - Estrutura de Documentos Administrativos.md",
+    "Português/8. Regras de Escrita - Ortografia, Acentuação Gráfica, Pontuação.md",
+    "Português/Termo.md",
+    "Português/Analise Textual.md",
+    "Português/7. Linguagem Denotativa e Conotativa.md",
+    "Português/Porques.md",
+    "Português/Compreensão e Interpretação Textual.md",
+    "Português/1-2. Coesão e coerência Textual.md",
+    "Português/6. Semântica.md",
+    "Português/5. Morfossintaxe.md",
+    "Português/5.md",
+    "Português/4. Adequação Linguística.md",
+    "Português/3. Relações Semântico-Discursivas.md",
     "Sem título.md",
-    "Português/Relações Semântico-Discursivas.md",
-    "Português/Semântica.md",
     "Legislação/Decreto nº 9.094-2017 - Simplificação do Atendimento ao Usuário dos Serviços Públicos.md",
     "TI/Fundamentos da computação/Arquitetura de Von Neumann.md",
     "TI/Fundamentos da computação/Barramentos e memória.md",
     "TI/Fundamentos da computação/Dispositivos de entrada e saída.md",
-    "Português/Morfossintaxe.md",
-    "Português/Coesão e coerência Textual.md",
     "Português",
     "Legislação/LGPD - Decreto nº 8.539-2015 - Lei nº 13.146-2015 - Lei nº 11.091-2005.md",
     "Legislação/UFCG.md",
@@ -185,15 +193,7 @@
     "Sem título 1.md",
     "Legislação/Decreto nº 9.739-2019.md",
     "Legislação/Lei 9.784-1999.md",
-    "CheckList.md",
     "Sem título.canvas",
-    "2025-01-21.md",
-    "TI/Internet, Intranet, Extranet.md",
-    "TI/Gerenciamento e contratos/Lei nº 14.133-2021 (Licitações e Contratos).md",
-    "TI/Redes 2.0/Ferramentas de resolução de problemas de redes.md",
-    "TI/Redes 2.0/Protocolo de roteamento.md",
-    "TI/Redes 2.0/Redes wireless 802.11.md",
-    "TI/Redes/IPV4-IPV6.md",
     "TI/Gerenciamento e contratos",
     "TI/Segurança da informação",
     "TI/Redes 2.0",
