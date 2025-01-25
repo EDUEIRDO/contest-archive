@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Orações.md",
+                "file": "Português/Verbo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orações"
+              "title": "Verbo"
             }
           }
         ]
@@ -165,20 +165,23 @@
   },
   "active": "d53f53c8621dbd29",
   "lastOpenFiles": [
-    "Português/8. Regras de Escrita - Ortografia, Acentuação Gráfica, Pontuação.md",
+    "CheckList.md",
+    "Português/Verbo.md",
+    "TI/Protocolos.md",
+    "Português/3. Relações Semântico-Discursivas.md",
+    "Português/6. Semântica.md",
+    "Português/7. Linguagem Denotativa e Conotativa.md",
+    "Português/5. Morfossintaxe.md",
+    "Português/4. Adequação Linguística.md",
     "Português/Orações.md",
+    "Português/8. Regras de Escrita - Ortografia, Acentuação Gráfica, Pontuação.md",
     "Português/9. Redação Oficial - Estrutura de Documentos Administrativos.md",
     "Português/Termo.md",
     "Português/Analise Textual.md",
-    "Português/7. Linguagem Denotativa e Conotativa.md",
     "Português/Porques.md",
     "Português/Compreensão e Interpretação Textual.md",
     "Português/1-2. Coesão e coerência Textual.md",
-    "Português/6. Semântica.md",
-    "Português/5. Morfossintaxe.md",
     "Português/5.md",
-    "Português/4. Adequação Linguística.md",
-    "Português/3. Relações Semântico-Discursivas.md",
     "Sem título.md",
     "Legislação/Decreto nº 9.094-2017 - Simplificação do Atendimento ao Usuário dos Serviços Públicos.md",
     "TI/Fundamentos da computação/Arquitetura de Von Neumann.md",
@@ -190,9 +193,6 @@
     "Legislação",
     "Legislação/Decreto nº 9.991-2019 Atualizado pelo Decreto nº 10.506-2020.md",
     "Legislação/Lei 8112-90.md",
-    "Legislação/Decreto nº 1.171-1994 - Código de Ética Profissional do Servidor Público Civil Federal.md",
-    "Sem título 1.md",
-    "Legislação/Decreto nº 9.739-2019.md",
     "Sem título.canvas",
     "TI/Gerenciamento e contratos",
     "TI/Segurança da informação",

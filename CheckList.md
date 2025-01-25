@@ -33,10 +33,10 @@ Lista de checagem de assuntos estudados.
 - [x] Noções sobre fonte de alimentação: potência, eficiência, correção de fator de potência (PFC) e conectores.
 - [x] Memória: memórias principal e secundária.
 - [x] Noções sobre placa-mãe: chipset, slots de expansão, soquetes, conectores, BIOS e SETUP.
-- [ ] Barramento de sistema (system bus), ATA, SATA, SAS, AGP, FireWire (IEE 1394), PCI, PCI Express, USB e PS/2.
+- [x] Barramento de sistema (system bus), ATA, SATA, SAS, AGP, FireWire (IEE 1394), PCI, PCI Express, USB e PS/2.
 - [x] Noções de arquitetura, protocolos e serviços de redes de comunicação
 - [x] Modelos OSI e TCP/IP.
-- [ ] Protocolos HTTP/HTTPS, TELNET, SSH, FTP/SFTP, DNS, DHCP, LDAP, NFS, NTP, TCP, UDP, ICMP, ARP e RARP.
+- [x] Protocolos HTTP/HTTPS, TELNET, SSH, FTP/SFTP, DNS, DHCP, LDAP, NFS, NTP, TCP, UDP, ICMP, ARP e RARP.
 - [x] Características dos protocolos IPv4 e IPv6.
 - [x] Conceitos de endereçamento IP, sub-endereçamento, CIDR e NAT.
 - [x] Correio eletrônico e protocolos IMAP, POP3 e SMTP.
@@ -46,7 +46,7 @@ Lista de checagem de assuntos estudados.
 - [ ] Topologias: barramento, anel, estrela, árvore e malha.
 - [x] Equipamentos: hubs, repetidores, bridges, switches e roteadores.
 - [ ] Meios físicos de transmissão: par trançado, cabo coaxial e fibra óptica.
-- [ ] Redes wireless: padrões 802.11 a/b/g/n/ac, protocolos 802.1x, EAP, WEP, WPA, WPA2, WPA3.
+- [x] Redes wireless: padrões 802.11 a/b/g/n/ac, protocolos 802.1x, EAP, WEP, WPA, WPA2, WPA3.
 - [x] Internet, intranet e extranet.
 - [x] Uso de utilitários de resolução de problemas de redes.
 - [x] Conceitos de protocolos de roteamento RIPv2, OSPF e BGP, VLAN.
